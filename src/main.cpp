@@ -42,7 +42,5 @@ int main() {
             htmlFile << "<h1>" + line.substr(2) + "</h1>\n"; 
         }
     }
-
-    htmlFile << line;
     return 0;
 }
