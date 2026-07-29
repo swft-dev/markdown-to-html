@@ -43,5 +43,6 @@ int main() {
         }
     }
 
+    htmlFile << line;
     return 0;
 }
